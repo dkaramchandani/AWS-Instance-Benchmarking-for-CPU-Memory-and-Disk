@@ -1,0 +1,4 @@
+Workload Concurrency MyCPUBenchValue TheoreticalValue Efficiency
+SP 1 3.694747 147.200000 2.510018
+SP 1 3.679878 147.200000 2.499917
+SP 1 3.409950 147.200000 2.316542
